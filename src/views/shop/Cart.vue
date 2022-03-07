@@ -66,7 +66,7 @@
     <div class="check">
       <div class="check__icon">
         <img
-          src="http://www.dell-lee.com/imgs/vue3/basket.png"
+          src="https://jdapi.liyunfu.xyz/images/staticpart/basket@2x.png"
           class="check__icon__img"
           @click="handleCartShowChange"
         />

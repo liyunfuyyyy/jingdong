@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const instance = axios.create({
   baseURL: 'https://jdapi.liyunfu.xyz',
-  timeout: 10000,
+  timeout: 10000
 })
 
 export const get = (url, params = {}) => {

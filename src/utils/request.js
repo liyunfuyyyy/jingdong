@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-  baseURL: 'https://jadpi.liyunfu.xyz',
+  baseURL: 'https://jddpi.liyunfu.xyz',
   timeout: 10000,
   withCredentials: true
 })
